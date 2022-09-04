@@ -8,4 +8,4 @@ buildfile = 'https://tveecf.github.io/program/text/builds.xml'
 notify_url  = 'https://tveecf.github.io/program/text/notify.txt'
 
 '''#####-----Excludes-----#####'''
-excludes  = [addon_id, 'packages', 'Addons33.db', 'kodi.log', 'script.module.certifi', 'script.module.chardet', 'script.module.idna', 'script.module.requests', 'script.module.urllib3', 'backups', 'plugin.video.stubevavoo', 'repository.bitorbit']
+excludes  = [addon_id, 'packages', 'Addons33.db', 'kodi.log', 'script.module.certifi', 'script.module.chardet', 'script.module.idna', 'script.module.requests', 'script.module.urllib3', 'backups',']
