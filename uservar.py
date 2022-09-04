@@ -4,7 +4,7 @@ addon_id = xbmcaddon.Addon().getAddonInfo('id')
 '''#####-----Build File-----#####'''
 buildfile = 'https://tveecf.github.io/program/text/builds.xml'
 
-'''####tveecf.####-----Notificationstveecf.g####-----Notificationstveecf.gi####-----Notificationstveecf.git####-----Notificationstveecf.gith####-----Notificationstveecf.githu####-----Notificationstveecf.github####-----Notificationstveecf.github.####-----Notificationstveecf.github.i####-----Notifications/tveecf.github.i/####-----Notifications#-----Notifications File-----#####'''
+'''#####-----Notifications-----#####'''
 notify_url  = 'https://tveecf.github.io/program/text/notify.txt'
 
 '''#####-----Excludes-----#####'''
